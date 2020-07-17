@@ -125,5 +125,5 @@ def adding_to_dennis
         }
      }
 		 newLang=["Assembly"]
-return programmer_hash = {:dennis_ritchie => :language >> newLang}
+return programmer_hash = {:dennis_ritchie => :language > newLang}
 end
